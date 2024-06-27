@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="design_by_sanket_s">Design by Sanket S.</string>
+    <string name="register">Register</string>
+    <string name="new_here">New here?</string>
+    <string name="login">Login</string>
+    <string name="blog">Blog..</string>
+    <string name="share_your_story_n_with_us">Share your story \n with us</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
